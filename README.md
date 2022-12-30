@@ -1,2 +1,2 @@
-# PS7-simple-Port-Scanner
-Simple Port scan with PowerShell 7
+# PS-simple-Port-Scanner
+Simple Port scan with PowerShell
